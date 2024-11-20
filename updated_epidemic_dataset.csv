@@ -1,0 +1,331 @@
+Disease,Location,Susceptible (S),Exposed (E),Infective (I),Recovered (R)
+COVID-19,Velachery,4223,57,47,6
+Flu,Velachery,1601,81,8,27
+Dengue,Velachery,1798,86,8,27
+Common Cold,Velachery,3506,23,38,7
+Malaria,Velachery,4046,22,19,16
+Typhoid,Velachery,3344,85,43,13
+Tuberculosis,Velachery,3368,70,23,8
+Chikungunya,Velachery,4286,83,1,21
+Pneumonia,Velachery,4224,55,31,3
+Measles,Velachery,1597,99,47,20
+Chickenpox,Velachery,2169,42,18,2
+Mumps,Velachery,4329,30,43,28
+HIV/AIDS,Velachery,3591,88,26,3
+Hepatitis A/B/C,Velachery,1801,78,34,11
+Zika Virus,Velachery,1169,47,28,28
+Ebola,Velachery,4125,63,24,14
+Meningitis,Velachery,2250,43,44,4
+Lyme Disease,Velachery,3372,77,14,24
+Scarlet Fever,Velachery,3971,77,48,25
+Bronchitis,Velachery,3787,97,2,19
+RSV (Respiratory Syncytial Virus),Velachery,4399,50,48,23
+Whooping Cough,Velachery,1895,84,31,25
+COVID-19,T. Nagar,4465,82,41,11
+Flu,T. Nagar,3076,74,19,3
+Dengue,T. Nagar,2028,95,25,11
+Common Cold,T. Nagar,1229,28,12,5
+Malaria,T. Nagar,2463,83,14,13
+Typhoid,T. Nagar,1279,55,47,17
+Tuberculosis,T. Nagar,2338,78,8,13
+Chikungunya,T. Nagar,3505,86,16,23
+Pneumonia,T. Nagar,1344,22,47,12
+Measles,T. Nagar,2612,92,10,0
+Chickenpox,T. Nagar,2415,48,16,10
+Mumps,T. Nagar,2094,47,42,14
+HIV/AIDS,T. Nagar,2325,62,28,26
+Hepatitis A/B/C,T. Nagar,1434,94,15,17
+Zika Virus,T. Nagar,3613,46,8,2
+Ebola,T. Nagar,1326,99,35,22
+Meningitis,T. Nagar,1808,39,44,17
+Lyme Disease,T. Nagar,1215,21,15,9
+Scarlet Fever,T. Nagar,2994,92,26,19
+Bronchitis,T. Nagar,4646,89,7,24
+RSV (Respiratory Syncytial Virus),T. Nagar,1018,82,8,22
+Whooping Cough,T. Nagar,1184,96,15,6
+COVID-19,Adyar,2256,79,40,13
+Flu,Adyar,2872,87,45,28
+Dengue,Adyar,2659,31,21,29
+Common Cold,Adyar,4523,31,2,29
+Malaria,Adyar,1081,72,10,6
+Typhoid,Adyar,4519,84,10,7
+Tuberculosis,Adyar,4040,85,39,7
+Chikungunya,Adyar,1858,81,17,25
+Pneumonia,Adyar,3926,89,34,0
+Measles,Adyar,3154,21,42,0
+Chickenpox,Adyar,1966,32,1,28
+Mumps,Adyar,1902,85,43,18
+HIV/AIDS,Adyar,1617,98,34,4
+Hepatitis A/B/C,Adyar,1495,54,41,21
+Zika Virus,Adyar,3417,75,39,21
+Ebola,Adyar,1960,71,40,16
+Meningitis,Adyar,4611,24,21,17
+Lyme Disease,Adyar,1208,51,47,17
+Scarlet Fever,Adyar,2232,80,26,28
+Bronchitis,Adyar,4737,55,36,16
+RSV (Respiratory Syncytial Virus),Adyar,2053,40,2,20
+Whooping Cough,Adyar,2889,49,16,10
+COVID-19,Mylapore,1244,36,12,28
+Flu,Mylapore,1297,39,17,6
+Dengue,Mylapore,4791,41,22,18
+Common Cold,Mylapore,1789,86,15,6
+Malaria,Mylapore,4446,44,12,18
+Typhoid,Mylapore,4545,89,43,5
+Tuberculosis,Mylapore,1279,83,27,0
+Chikungunya,Mylapore,3192,79,20,26
+Pneumonia,Mylapore,3541,56,12,7
+Measles,Mylapore,3396,21,27,22
+Chickenpox,Mylapore,2004,60,4,24
+Mumps,Mylapore,1712,82,45,12
+HIV/AIDS,Mylapore,2399,57,4,22
+Hepatitis A/B/C,Mylapore,4581,67,8,17
+Zika Virus,Mylapore,3518,33,1,18
+Ebola,Mylapore,2132,49,23,2
+Meningitis,Mylapore,4377,84,4,2
+Lyme Disease,Mylapore,4341,51,48,20
+Scarlet Fever,Mylapore,2523,71,1,28
+Bronchitis,Mylapore,1018,97,45,13
+RSV (Respiratory Syncytial Virus),Mylapore,2856,30,18,22
+Whooping Cough,Mylapore,3562,27,7,28
+COVID-19,Thiruvanmiyur,4583,85,23,22
+Flu,Thiruvanmiyur,1441,58,38,28
+Dengue,Thiruvanmiyur,4917,58,18,0
+Common Cold,Thiruvanmiyur,3595,87,13,15
+Malaria,Thiruvanmiyur,3019,25,7,19
+Typhoid,Thiruvanmiyur,2614,87,27,12
+Tuberculosis,Thiruvanmiyur,4900,66,45,2
+Chikungunya,Thiruvanmiyur,2131,77,3,1
+Pneumonia,Thiruvanmiyur,4983,34,12,13
+Measles,Thiruvanmiyur,1633,61,18,22
+Chickenpox,Thiruvanmiyur,2487,64,39,6
+Mumps,Thiruvanmiyur,2008,44,11,27
+HIV/AIDS,Thiruvanmiyur,1485,88,13,1
+Hepatitis A/B/C,Thiruvanmiyur,3938,62,32,7
+Zika Virus,Thiruvanmiyur,2941,50,33,27
+Ebola,Thiruvanmiyur,2532,77,9,9
+Meningitis,Thiruvanmiyur,2482,91,30,19
+Lyme Disease,Thiruvanmiyur,4192,75,33,16
+Scarlet Fever,Thiruvanmiyur,4529,78,23,13
+Bronchitis,Thiruvanmiyur,1035,47,11,29
+RSV (Respiratory Syncytial Virus),Thiruvanmiyur,1031,80,42,26
+Whooping Cough,Thiruvanmiyur,1172,20,30,3
+COVID-19,Anna Nagar,3016,41,32,21
+Flu,Anna Nagar,4666,26,19,20
+Dengue,Anna Nagar,2326,53,22,14
+Common Cold,Anna Nagar,4232,61,44,19
+Malaria,Anna Nagar,4914,85,34,27
+Typhoid,Anna Nagar,1984,92,4,5
+Tuberculosis,Anna Nagar,4202,64,32,1
+Chikungunya,Anna Nagar,2088,98,40,13
+Pneumonia,Anna Nagar,4685,57,9,19
+Measles,Anna Nagar,4600,61,44,2
+Chickenpox,Anna Nagar,2081,53,22,10
+Mumps,Anna Nagar,3563,76,11,18
+HIV/AIDS,Anna Nagar,2039,21,37,18
+Hepatitis A/B/C,Anna Nagar,1457,86,41,16
+Zika Virus,Anna Nagar,4825,47,36,22
+Ebola,Anna Nagar,3414,23,39,26
+Meningitis,Anna Nagar,4789,55,46,29
+Lyme Disease,Anna Nagar,2585,78,9,20
+Scarlet Fever,Anna Nagar,2636,20,35,21
+Bronchitis,Anna Nagar,3469,40,46,21
+RSV (Respiratory Syncytial Virus),Anna Nagar,1391,50,38,21
+Whooping Cough,Anna Nagar,3460,77,6,10
+COVID-19,Nungambakkam,1321,43,21,28
+Flu,Nungambakkam,2440,97,4,4
+Dengue,Nungambakkam,4280,85,46,18
+Common Cold,Nungambakkam,2393,34,30,22
+Malaria,Nungambakkam,3932,41,7,12
+Typhoid,Nungambakkam,2429,84,25,1
+Tuberculosis,Nungambakkam,4126,86,9,28
+Chikungunya,Nungambakkam,2886,22,45,0
+Pneumonia,Nungambakkam,3048,41,7,8
+Measles,Nungambakkam,3981,61,3,23
+Chickenpox,Nungambakkam,3640,29,40,14
+Mumps,Nungambakkam,2859,58,19,29
+HIV/AIDS,Nungambakkam,3595,92,6,6
+Hepatitis A/B/C,Nungambakkam,1571,28,41,12
+Zika Virus,Nungambakkam,4847,38,9,10
+Ebola,Nungambakkam,4884,88,28,12
+Meningitis,Nungambakkam,1737,82,25,15
+Lyme Disease,Nungambakkam,3487,70,1,17
+Scarlet Fever,Nungambakkam,2998,94,42,25
+Bronchitis,Nungambakkam,3591,30,29,6
+RSV (Respiratory Syncytial Virus),Nungambakkam,4963,76,5,20
+Whooping Cough,Nungambakkam,4016,70,30,3
+COVID-19,Kodambakkam,4852,37,19,24
+Flu,Kodambakkam,2901,89,38,20
+Dengue,Kodambakkam,3776,91,3,10
+Common Cold,Kodambakkam,2574,21,4,9
+Malaria,Kodambakkam,2534,25,37,12
+Typhoid,Kodambakkam,1767,36,11,20
+Tuberculosis,Kodambakkam,4408,61,33,17
+Chikungunya,Kodambakkam,2416,27,37,0
+Pneumonia,Kodambakkam,4567,83,32,29
+Measles,Kodambakkam,1495,42,12,19
+Chickenpox,Kodambakkam,2376,98,7,10
+Mumps,Kodambakkam,2439,44,45,27
+HIV/AIDS,Kodambakkam,2589,26,41,9
+Hepatitis A/B/C,Kodambakkam,1071,77,43,24
+Zika Virus,Kodambakkam,2995,70,31,10
+Ebola,Kodambakkam,2114,64,19,28
+Meningitis,Kodambakkam,3020,87,11,14
+Lyme Disease,Kodambakkam,3834,49,9,9
+Scarlet Fever,Kodambakkam,1434,99,19,27
+Bronchitis,Kodambakkam,2943,77,20,7
+RSV (Respiratory Syncytial Virus),Kodambakkam,2625,69,14,28
+Whooping Cough,Kodambakkam,2817,41,46,12
+COVID-19,Porur,4233,38,36,2
+Flu,Porur,4984,25,43,8
+Dengue,Porur,3448,92,27,18
+Common Cold,Porur,2014,51,4,29
+Malaria,Porur,3104,81,42,1
+Typhoid,Porur,1586,87,2,22
+Tuberculosis,Porur,3079,85,46,16
+Chikungunya,Porur,1689,25,29,18
+Pneumonia,Porur,3522,63,18,9
+Measles,Porur,4878,69,38,20
+Chickenpox,Porur,4229,45,49,29
+Mumps,Porur,2427,66,32,15
+HIV/AIDS,Porur,4259,30,19,22
+Hepatitis A/B/C,Porur,1372,89,18,28
+Zika Virus,Porur,1491,24,7,9
+Ebola,Porur,1673,87,47,2
+Meningitis,Porur,1411,36,21,29
+Lyme Disease,Porur,4132,46,30,8
+Scarlet Fever,Porur,3235,43,30,5
+Bronchitis,Porur,3422,91,17,1
+RSV (Respiratory Syncytial Virus),Porur,1740,96,6,10
+Whooping Cough,Porur,3718,32,37,10
+COVID-19,Besant Nagar,1219,94,20,15
+Flu,Besant Nagar,4358,90,1,17
+Dengue,Besant Nagar,2383,31,6,22
+Common Cold,Besant Nagar,1306,30,29,7
+Malaria,Besant Nagar,3566,85,40,14
+Typhoid,Besant Nagar,3655,45,44,18
+Tuberculosis,Besant Nagar,2023,27,49,3
+Chikungunya,Besant Nagar,4506,57,10,7
+Pneumonia,Besant Nagar,1247,86,21,1
+Measles,Besant Nagar,1540,84,48,27
+Chickenpox,Besant Nagar,2776,38,31,23
+Mumps,Besant Nagar,1945,34,17,13
+HIV/AIDS,Besant Nagar,2048,67,35,18
+Hepatitis A/B/C,Besant Nagar,3893,33,29,3
+Zika Virus,Besant Nagar,2017,42,6,19
+Ebola,Besant Nagar,3949,95,20,4
+Meningitis,Besant Nagar,1036,45,7,3
+Lyme Disease,Besant Nagar,4675,28,41,27
+Scarlet Fever,Besant Nagar,2726,78,30,23
+Bronchitis,Besant Nagar,4299,98,44,11
+RSV (Respiratory Syncytial Virus),Besant Nagar,3424,97,42,4
+Whooping Cough,Besant Nagar,3615,22,14,19
+COVID-19,Kotturpuram,4362,57,26,22
+Flu,Kotturpuram,1812,81,1,14
+Dengue,Kotturpuram,1155,36,18,6
+Common Cold,Kotturpuram,4772,84,47,18
+Malaria,Kotturpuram,4110,32,44,17
+Typhoid,Kotturpuram,2696,71,27,11
+Tuberculosis,Kotturpuram,2054,32,32,19
+Chikungunya,Kotturpuram,3879,44,16,12
+Pneumonia,Kotturpuram,4987,31,33,16
+Measles,Kotturpuram,1979,78,1,18
+Chickenpox,Kotturpuram,4886,71,43,22
+Mumps,Kotturpuram,2241,20,13,5
+HIV/AIDS,Kotturpuram,1653,50,37,23
+Hepatitis A/B/C,Kotturpuram,4456,31,26,9
+Zika Virus,Kotturpuram,1722,66,40,15
+Ebola,Kotturpuram,1864,29,15,23
+Meningitis,Kotturpuram,3174,88,12,8
+Lyme Disease,Kotturpuram,2397,76,23,16
+Scarlet Fever,Kotturpuram,4212,59,40,10
+Bronchitis,Kotturpuram,3713,44,25,6
+RSV (Respiratory Syncytial Virus),Kotturpuram,3440,59,43,2
+Whooping Cough,Kotturpuram,4686,42,13,25
+COVID-19,Choolaimedu,4432,30,43,24
+Flu,Choolaimedu,1681,25,10,6
+Dengue,Choolaimedu,1174,54,10,20
+Common Cold,Choolaimedu,4164,85,28,29
+Malaria,Choolaimedu,1377,94,19,9
+Typhoid,Choolaimedu,2055,94,49,28
+Tuberculosis,Choolaimedu,1789,36,49,21
+Chikungunya,Choolaimedu,2612,89,34,23
+Pneumonia,Choolaimedu,4988,74,5,27
+Measles,Choolaimedu,2835,84,9,8
+Chickenpox,Choolaimedu,2282,37,9,0
+Mumps,Choolaimedu,1053,60,4,22
+HIV/AIDS,Choolaimedu,3332,43,35,1
+Hepatitis A/B/C,Choolaimedu,2170,28,11,21
+Zika Virus,Choolaimedu,2452,51,35,23
+Ebola,Choolaimedu,3966,69,42,17
+Meningitis,Choolaimedu,2359,63,29,17
+Lyme Disease,Choolaimedu,3889,54,7,5
+Scarlet Fever,Choolaimedu,3615,39,29,16
+Bronchitis,Choolaimedu,1636,59,4,7
+RSV (Respiratory Syncytial Virus),Choolaimedu,4079,37,20,21
+Whooping Cough,Choolaimedu,4675,33,8,27
+COVID-19,Sholinganallur,4489,79,27,25
+Flu,Sholinganallur,1329,21,18,12
+Dengue,Sholinganallur,3375,81,18,18
+Common Cold,Sholinganallur,4674,31,25,18
+Malaria,Sholinganallur,3839,56,49,24
+Typhoid,Sholinganallur,1902,84,12,11
+Tuberculosis,Sholinganallur,4582,63,47,17
+Chikungunya,Sholinganallur,1474,30,4,3
+Pneumonia,Sholinganallur,2813,44,31,25
+Measles,Sholinganallur,3874,38,1,20
+Chickenpox,Sholinganallur,1553,55,11,10
+Mumps,Sholinganallur,1759,92,19,2
+HIV/AIDS,Sholinganallur,4299,23,44,2
+Hepatitis A/B/C,Sholinganallur,1508,55,14,7
+Zika Virus,Sholinganallur,1794,35,41,24
+Ebola,Sholinganallur,1138,90,1,13
+Meningitis,Sholinganallur,3889,42,7,14
+Lyme Disease,Sholinganallur,2846,61,19,26
+Scarlet Fever,Sholinganallur,1930,32,13,28
+Bronchitis,Sholinganallur,3251,74,10,0
+RSV (Respiratory Syncytial Virus),Sholinganallur,4111,37,26,21
+Whooping Cough,Sholinganallur,3957,57,3,14
+COVID-19,Guindy,1664,99,16,13
+Flu,Guindy,1819,52,12,0
+Dengue,Guindy,1584,82,10,28
+Common Cold,Guindy,4390,65,40,22
+Malaria,Guindy,3563,74,45,10
+Typhoid,Guindy,2323,85,40,17
+Tuberculosis,Guindy,1502,88,30,25
+Chikungunya,Guindy,4995,54,6,6
+Pneumonia,Guindy,3989,68,47,20
+Measles,Guindy,1716,42,8,21
+Chickenpox,Guindy,2932,41,11,22
+Mumps,Guindy,2351,30,12,19
+HIV/AIDS,Guindy,2059,80,4,27
+Hepatitis A/B/C,Guindy,2647,27,1,22
+Zika Virus,Guindy,2765,23,43,5
+Ebola,Guindy,3000,61,8,13
+Meningitis,Guindy,2545,78,41,17
+Lyme Disease,Guindy,4816,99,30,20
+Scarlet Fever,Guindy,3283,41,6,3
+Bronchitis,Guindy,3316,51,21,25
+RSV (Respiratory Syncytial Virus),Guindy,1506,45,44,17
+Whooping Cough,Guindy,1423,32,19,29
+COVID-19,Egmore,4926,81,18,25
+Flu,Egmore,2685,37,21,0
+Dengue,Egmore,1214,34,48,1
+Common Cold,Egmore,3858,39,42,8
+Malaria,Egmore,4507,21,32,29
+Typhoid,Egmore,1771,53,12,6
+Tuberculosis,Egmore,3591,25,4,28
+Chikungunya,Egmore,4567,23,6,11
+Pneumonia,Egmore,1390,91,3,0
+Measles,Egmore,1461,74,35,1
+Chickenpox,Egmore,4251,72,27,13
+Mumps,Egmore,3599,33,5,19
+HIV/AIDS,Egmore,4226,32,7,11
+Hepatitis A/B/C,Egmore,1561,75,23,22
+Zika Virus,Egmore,2414,93,49,7
+Ebola,Egmore,4867,22,38,8
+Meningitis,Egmore,2882,58,7,17
+Lyme Disease,Egmore,2472,67,7,13
+Scarlet Fever,Egmore,3683,44,18,3
+Bronchitis,Egmore,1357,58,40,5
+RSV (Respiratory Syncytial Virus),Egmore,4984,50,19,18
+Whooping Cough,Egmore,4255,88,14,12
